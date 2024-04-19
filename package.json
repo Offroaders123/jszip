@@ -26,6 +26,7 @@
       "name": "yiminghe"
     }
   ],
+  "type": "commonjs",
   "main": "./lib/index",
   "browser": {
     "./lib/index": "./dist/jszip.min.js",
